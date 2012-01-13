@@ -2,6 +2,8 @@
 
 turn your terminal into a flashlight
 
+![lumos](http://i.imgur.com/OnsOr.jpg)
+
 ##install
 
     npm install -g lumos
